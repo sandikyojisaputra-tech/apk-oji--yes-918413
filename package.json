@@ -1,0 +1,27 @@
+{
+  "name": "oji-yes",
+  "displayName": "oji  yes",
+  "version": "1.0.0",
+  "description": "Built with APK Forge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests\""
+  },
+  "keywords": [
+    "cordova"
+  ],
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "cordova-android": "^13.0.0",
+    "cordova-custom-config": "^5.1.0"
+  },
+  "cordova": {
+    "platforms": [
+      "android"
+    ],
+    "plugins": {
+      "cordova-custom-config": {}
+    }
+  }
+}
